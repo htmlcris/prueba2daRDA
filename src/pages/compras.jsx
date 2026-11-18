@@ -21,3 +21,5 @@
         </li>
     );
 })}
+
+export default Compras;
